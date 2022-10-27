@@ -1,3 +1,5 @@
+Ce projet correspond a la Formation "l'essentiel de REACT.JS" de Damien Bruyndonckx, sur LINKEDIN LEARNING
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
